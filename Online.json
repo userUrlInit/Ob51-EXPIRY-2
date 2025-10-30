@@ -1,0 +1,13 @@
+{
+  "showDialog": true,
+  "latestVersionCode": 5,
+  "latestVersionName": "1.5",
+  "title": "NIKU MODS EXPIRED",
+  "message": "GET THE LATEST VERSION TO AVOID BAN.",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "https://t.me/+HXnxSaZTeYFhMDE1",
+  "autoOpen": true,
+  "autoOpenDelaySeconds": 6,
+  "theme": "dark_neon_blue",
+  "pulseAnimation": true
+}
